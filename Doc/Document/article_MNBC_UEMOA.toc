@@ -1,53 +1,54 @@
 \babel@toc {french}{}\relax 
-\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
-\contentsline {paragraph}{Contribution.}{3}{section*.2}%
-\contentsline {paragraph}{Résultats principaux.}{3}{section*.3}%
-\contentsline {paragraph}{Ce que l'article ne fait pas.}{4}{section*.4}%
-\contentsline {paragraph}{Plan.}{4}{section*.5}%
-\contentsline {section}{\numberline {2}Revue de la littérature}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Ce que fait une MNBC aux bilans bancaires}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Frictions, concurrence et crédit}{5}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Simulations de liquidité et plafonds de détention}{5}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Hétérogénéité et circulation de la liquidité}{5}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Afrique et UEMOA}{6}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Lacune et contribution}{6}{subsection.2.6}%
-\contentsline {section}{\numberline {3}Cadre théorique}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Mise en place}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Seuils critiques}{7}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Un seul bilan ou huit pays}{7}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Plafond de détention}{7}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Trois paramètres d'incertitude}{8}{subsection.3.5}%
-\contentsline {paragraph}{$\varphi $ : répercussion sur le crédit.}{8}{section*.6}%
-\contentsline {paragraph}{$\kappa $ : matelas réellement mobilisable.}{8}{section*.7}%
-\contentsline {paragraph}{$\pi $ : part de la MNBC financée par des dépôts.}{8}{section*.8}%
-\contentsline {subsection}{\numberline {3.6}Hypothèses}{8}{subsection.3.6}%
-\contentsline {section}{\numberline {4}Données et calibration}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Sources}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Mesure des variables}{9}{subsection.4.2}%
-\contentsline {paragraph}{Dépôts et crédits.}{9}{section*.9}%
-\contentsline {paragraph}{Matelas.}{9}{section*.10}%
-\contentsline {paragraph}{Limites de la mesure.}{9}{section*.11}%
-\contentsline {subsection}{\numberline {4.3}Statistiques de calibration}{10}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Résultats}{10}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Les seuils critiques (Q1)}{10}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Courbes de contraction}{11}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Hétérogénéité entre pays (Q3)}{13}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Le rôle du recyclage (Q2)}{13}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Plafond de détention}{14}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Zoom sur la Côte d'Ivoire}{14}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}Robustesse}{15}{subsection.5.7}%
-\contentsline {paragraph}{Répercussion $\varphi $.}{15}{section*.21}%
-\contentsline {paragraph}{Erreur de mesure du matelas $\kappa $.}{15}{section*.23}%
-\contentsline {section}{\numberline {6}Discussion et limites}{16}{section.6}%
-\contentsline {paragraph}{Ce que les résultats permettent d'affirmer.}{16}{section*.25}%
-\contentsline {paragraph}{Comparaison avec la zone euro.}{16}{section*.26}%
-\contentsline {paragraph}{Limites principales.}{16}{section*.27}%
-\contentsline {paragraph}{Implications de politique économique.}{17}{section*.28}%
-\contentsline {section}{\numberline {7}Conclusion}{17}{section.7}%
-\contentsline {section}{\numberline {A}Démonstrations}{18}{appendix.A}%
-\contentsline {paragraph}{Proposition~\ref {prop:seuil}.}{18}{section*.29}%
-\contentsline {paragraph}{Proposition~\ref {prop:jensen}.}{18}{section*.30}%
-\contentsline {paragraph}{Proportionnalité au coefficient $\kappa $.}{18}{section*.31}%
-\contentsline {section}{\numberline {B}Données détaillées}{18}{appendix.B}%
-\contentsline {section}{\numberline {C}Figures complémentaires}{19}{appendix.C}%
-\contentsline {section}{\numberline {D}Reproductibilité et tests de sécurité}{19}{appendix.D}%
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {paragraph}{Contribution.}{4}{section*.2}%
+\contentsline {paragraph}{Résultats principaux.}{4}{section*.3}%
+\contentsline {paragraph}{Ce que l'article ne fait pas.}{5}{section*.4}%
+\contentsline {paragraph}{Plan.}{5}{section*.5}%
+\contentsline {section}{\numberline {2}Revue de la littérature}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Ce que fait une MNBC aux bilans bancaires}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Frictions, concurrence et crédit}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Simulations de liquidité et plafonds de détention}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Hétérogénéité et circulation de la liquidité}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Afrique et UEMOA}{7}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Lacune et contribution}{7}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Cadre théorique}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Mise en place}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Seuils critiques}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Un seul bilan ou huit pays}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Plafond de détention}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Trois paramètres d'incertitude}{9}{subsection.3.5}%
+\contentsline {paragraph}{$\varphi $ : répercussion sur le crédit.}{9}{section*.6}%
+\contentsline {paragraph}{$\kappa $ : matelas réellement mobilisable.}{9}{section*.7}%
+\contentsline {paragraph}{$\pi $ : part de la MNBC financée par des dépôts.}{9}{section*.8}%
+\contentsline {subsection}{\numberline {3.6}Hypothèses}{9}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Récapitulatif des paramètres}{10}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Données et calibration}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Sources}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Mesure des variables}{12}{subsection.4.2}%
+\contentsline {paragraph}{Dépôts et crédits.}{12}{section*.9}%
+\contentsline {paragraph}{Matelas.}{13}{section*.10}%
+\contentsline {paragraph}{Limites de la mesure.}{13}{section*.11}%
+\contentsline {subsection}{\numberline {4.3}Statistiques de calibration}{13}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Résultats}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Les seuils critiques (Q1)}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Courbes de contraction}{15}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Hétérogénéité entre pays (Q3)}{15}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Le rôle du recyclage (Q2)}{17}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Plafond de détention}{17}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Zoom sur la Côte d'Ivoire}{18}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Robustesse}{18}{subsection.5.7}%
+\contentsline {paragraph}{Répercussion $\varphi $.}{18}{section*.21}%
+\contentsline {paragraph}{Erreur de mesure du matelas $\kappa $.}{18}{section*.23}%
+\contentsline {section}{\numberline {6}Discussion et limites}{20}{section.6}%
+\contentsline {paragraph}{Ce que les résultats permettent d'affirmer.}{20}{section*.25}%
+\contentsline {paragraph}{Comparaison avec la zone euro.}{20}{section*.26}%
+\contentsline {paragraph}{Limites principales.}{20}{section*.27}%
+\contentsline {paragraph}{Implications de politique économique.}{20}{section*.28}%
+\contentsline {section}{\numberline {7}Conclusion}{21}{section.7}%
+\contentsline {section}{\numberline {A}Démonstrations}{22}{appendix.A}%
+\contentsline {paragraph}{Proposition~\ref {prop:seuil}.}{22}{section*.29}%
+\contentsline {paragraph}{Proposition~\ref {prop:jensen}.}{22}{section*.30}%
+\contentsline {paragraph}{Proportionnalité au coefficient $\kappa $.}{22}{section*.31}%
+\contentsline {section}{\numberline {B}Données détaillées}{22}{appendix.B}%
+\contentsline {section}{\numberline {C}Figures complémentaires}{23}{appendix.C}%
+\contentsline {section}{\numberline {D}Reproductibilité et tests de sécurité}{23}{appendix.D}%
