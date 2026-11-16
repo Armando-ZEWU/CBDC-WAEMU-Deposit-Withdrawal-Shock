@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.26)  15 NOV 2026 22:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.26)  16 NOV 2026 01:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -505,6 +505,18 @@ File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
 Package babel Info: 'french' activates 'french' shorthands.
 (babel)             Reported on input line 11.
 )
+Runaway argument?
+{\contentsline {subsection}{\numberline {5.3}HÃ©t 
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.42 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 \openout1 = `article_MNBC_UEMOA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
@@ -526,7 +538,6 @@ LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Info: Redefining \degres on input line 42.
-
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count333
@@ -596,14 +607,38 @@ Package color Info: Driver file: pdftex.def on input line 149.
 (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 42.
 
-(article_MNBC_UEMOA.out) (article_MNBC_UEMOA.out)
+(article_MNBC_UEMOA.out)
+Runaway argument?
+{\376\377\000H\000\351\000t\000\351\000r\000o\000g\000\351\000n\000\3\ETC.
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.42 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(article_MNBC_UEMOA.out)
+Runaway argument?
+{\376\377\000H\000\351\000t\000\351\000r\000o\000g\000\351\000n\000\3\ETC.
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.42 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 \@outlinefile=\write3
 \openout3 = `article_MNBC_UEMOA.out'.
 
 Package babel Info: Main language set to 'french'.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
 8.
-
 (C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -647,132 +682,389 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Fil
 es/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips
 /lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:
-/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] (article_MNBC_UEMOA.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 8.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 8.
- [2])
+/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] (article_MNBC_UEMOA.toc)
 \tf@toc=\write4
 \openout4 = `article_MNBC_UEMOA.toc'.
 
- [3] [4] [5] [6]
-[7{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [8] [9] [10]
+ [2]
+
+Package natbib Warning: Citation `brunnermeier2019' on page 3 undefined on inpu
+t line 67.
+
+
+Package natbib Warning: Citation `andolfatto2021' on page 3 undefined on input 
+line 67.
+
+
+Package natbib Warning: Citation `chiu2023' on page 3 undefined on input line 6
+7.
+
+
+Package natbib Warning: Citation `keister2023' on page 3 undefined on input lin
+e 67.
+
+
+Package natbib Warning: Citation `meller2023' on page 3 undefined on input line
+ 67.
+
+
+Package natbib Warning: Citation `fritz2024' on page 3 undefined on input line 
+67.
+
+
+Package natbib Warning: Citation `adalid2022' on page 3 undefined on input line
+ 67.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 69.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 69.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 69.
+[3]
+
+LaTeX Warning: Reference `sec:discussion' on page 4 undefined on input line 83.
+
+
+
+LaTeX Warning: Reference `sec:conclusion' on page 4 undefined on input line 83.
+
+
+
+Package natbib Warning: Citation `adalid2022' on page 4 undefined on input line
+ 89.
+
+
+Package natbib Warning: Citation `meller2023' on page 4 undefined on input line
+ 89.
+
+
+Package natbib Warning: Citation `fritz2024' on page 4 undefined on input line 
+89.
+
+
+Package natbib Warning: Citation `kumhof2018' on page 4 undefined on input line
+ 89.
+
+
+Package natbib Warning: Citation `bouis2024' on page 4 undefined on input line 
+89.
+
+
+Package natbib Warning: Citation `trinnou2023' on page 4 undefined on input lin
+e 89.
+
+
+Package natbib Warning: Citation `adalid2022' on page 4 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `kumhof2018' on page 4 undefined on input line
+ 95.
+
+
+Package natbib Warning: Citation `bouis2024' on page 4 undefined on input line 
+97.
+
+
+Package natbib Warning: Citation `brunnermeier2019' on page 4 undefined on inpu
+t line 97.
+
+
+Package natbib Warning: Citation `keister2023' on page 4 undefined on input lin
+e 101.
+
+
+Package natbib Warning: Citation `andolfatto2021' on page 4 undefined on input 
+line 101.
+
+
+Package natbib Warning: Citation `chiu2023' on page 4 undefined on input line 1
+01.
+
+
+Package natbib Warning: Citation `whited2023' on page 4 undefined on input line
+ 101.
+
+
+Package natbib Warning: Citation `burlon2024' on page 4 undefined on input line
+ 101.
+
+[4]
+
+Package natbib Warning: Citation `meller2023' on page 5 undefined on input line
+ 107.
+
+
+Package natbib Warning: Citation `fritz2024' on page 5 undefined on input line 
+109.
+
+
+Package natbib Warning: Citation `bindseil2020' on page 5 undefined on input li
+ne 109.
+
+
+Package natbib Warning: Citation `ahnert2023' on page 5 undefined on input line
+ 109.
+
+
+Package natbib Warning: Citation `bidder2024' on page 5 undefined on input line
+ 109.
+
+
+Package natbib Warning: Citation `kumhof2018' on page 5 undefined on input line
+ 109.
+
+
+Package natbib Warning: Citation `adalid2022' on page 5 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `meller2023' on page 5 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `fritz2024' on page 5 undefined on input line 
+113.
+
+[5]
+
+Package natbib Warning: Citation `ree2023' on page 6 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `sun2023' on page 6 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `dimaggio2024' on page 6 undefined on input li
+ne 117.
+
+
+Package natbib Warning: Citation `trinnou2023' on page 6 undefined on input lin
+e 119.
+
+
+Package natbib Warning: Citation `tadenyo2021' on page 6 undefined on input lin
+e 119.
+
+
+Package natbib Warning: Citation `saxegaard2006' on page 6 undefined on input l
+ine 119.
+
+[6{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
+
+LaTeX Warning: Reference `sec:phi' on page 7 undefined on input line 166.
+
+
+LaTeX Warning: Reference `app:preuves' on page 7 undefined on input line 180.
+
+[7]
+
+Package natbib Warning: Citation `whited2023' on page 8 undefined on input line
+ 194.
+
+
+Package natbib Warning: Citation `meller2023' on page 8 undefined on input line
+ 196.
+
+
+Package natbib Warning: Citation `bouis2024' on page 8 undefined on input line 
+198.
+
+[8]
+
+Package natbib Warning: Citation `bouis2024' on page 9 undefined on input line 
+228.
+
+
+LaTeX Warning: Reference `sec:kappa' on page 9 undefined on input line 234.
+
+[9]
 
 LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
 (Font)              using `T1/lmr/bx/n' instead on input line 242.
 
-<S1_seuils_par_pays.png, id=380, 714.9912pt x 390.258pt>
+
+Package natbib Warning: Citation `adalid2022' on page 10 undefined on input lin
+e 279.
+
+<S1_seuils_par_pays.png, id=187, 714.9912pt x 390.258pt>
 File: S1_seuils_par_pays.png Graphic file (type png)
 <use S1_seuils_par_pays.png>
 Package pdftex.def Info: S1_seuils_par_pays.png  used on input line 291.
 (pdftex.def)             Requested size: 455.24411pt x 248.48396pt.
-[11]
-<S2_courbes_contraction.png, id=392, 931.8012pt x 712.1004pt>
+[10]
+<S2_courbes_contraction.png, id=199, 931.8012pt x 712.1004pt>
 File: S2_courbes_contraction.png Graphic file (type png)
 <use S2_courbes_contraction.png>
 Package pdftex.def Info: S2_courbes_contraction.png  used on input line 305.
 (pdftex.def)             Requested size: 455.24411pt x 347.91087pt.
- [12 <./S1_seuils_par_pays.png>] [13 <./S2_courbes_contraction.png>]
-<S4c_carte_pays_fuite.png, id=408, 808.9422pt x 393.1488pt>
+
+
+LaTeX Warning: Reference `fig:carte' on page 11 undefined on input line 335.
+
+[11 <./S1_seuils_par_pays.png>] [12 <./S2_courbes_contraction.png>]
+<S4c_carte_pays_fuite.png, id=213, 808.9422pt x 393.1488pt>
 File: S4c_carte_pays_fuite.png Graphic file (type png)
 <use S4c_carte_pays_fuite.png>
 Package pdftex.def Info: S4c_carte_pays_fuite.png  used on input line 339.
 (pdftex.def)             Requested size: 455.24411pt x 221.24763pt.
-<S3b_effet_lambda.png, id=412, 860.013pt x 343.5234pt>
+
+
+LaTeX Warning: Reference `fig:lambda' on page 13 undefined on input line 347.
+
+<S3b_effet_lambda.png, id=216, 860.013pt x 343.5234pt>
 File: S3b_effet_lambda.png Graphic file (type png)
 <use S3b_effet_lambda.png>
 Package pdftex.def Info: S3b_effet_lambda.png  used on input line 351.
 (pdftex.def)             Requested size: 455.24411pt x 181.84113pt.
 
-[14 <./S4c_carte_pays_fuite.png>]
-<S5_regle_plafond.png, id=422, 932.283pt x 300.6432pt>
+LaTeX Warning: Reference `fig:plafond' on page 13 undefined on input line 359.
+
+[13 <./S4c_carte_pays_fuite.png>]
+<S5_regle_plafond.png, id=227, 932.283pt x 300.6432pt>
 File: S5_regle_plafond.png Graphic file (type png)
 <use S5_regle_plafond.png>
 Package pdftex.def Info: S5_regle_plafond.png  used on input line 363.
 (pdftex.def)             Requested size: 455.24411pt x 146.81183pt.
- [15 <./S3b_effet_lambda.png> <./S5_regle_plafond.png>]
-<S7_zoom_cote_ivoire.png, id=432, 931.8012pt x 357.9774pt>
+
+
+Package natbib Warning: Citation `meller2023' on page 14 undefined on input lin
+e 367.
+
+[14 <./S3b_effet_lambda.png> <./S5_regle_plafond.png>]
+<S7_zoom_cote_ivoire.png, id=238, 931.8012pt x 357.9774pt>
 File: S7_zoom_cote_ivoire.png Graphic file (type png)
 <use S7_zoom_cote_ivoire.png>
 Package pdftex.def Info: S7_zoom_cote_ivoire.png  used on input line 375.
 (pdftex.def)             Requested size: 455.24411pt x 174.897pt.
-<S10a_seuils_selon_kappa.png, id=435, 712.5822pt x 390.258pt>
+
+
+LaTeX Warning: Reference `tab:phi' on page 15 undefined on input line 381.
+
+
+LaTeX Warning: Reference `fig:kappa' on page 15 undefined on input line 401.
+
+<S10a_seuils_selon_kappa.png, id=239, 712.5822pt x 390.258pt>
 File: S10a_seuils_selon_kappa.png Graphic file (type png)
 <use S10a_seuils_selon_kappa.png>
 Package pdftex.def Info: S10a_seuils_selon_kappa.png  used on input line 405.
 (pdftex.def)             Requested size: 455.24411pt x 249.3236pt.
- [16 <./S7_zoom_cote_ivoire.png>] [17 <./S10a_seuils_selon_kappa.png>]
+[15 <./S7_zoom_cote_ivoire.png>]
+
+Package natbib Warning: Citation `meller2023' on page 16 undefined on input lin
+e 419.
+
+
+Package natbib Warning: Citation `kumhof2018' on page 16 undefined on input lin
+e 423.
+
+
+Package natbib Warning: Citation `bouis2024' on page 16 undefined on input line
+ 423.
+
+
+LaTeX Warning: Reference `tab:phi' on page 16 undefined on input line 423.
+
+
+Package natbib Warning: Citation `bouis2024' on page 16 undefined on input line
+ 424.
+
+
+Package natbib Warning: Citation `trinnou2023' on page 16 undefined on input li
+ne 424.
+
+
+Package natbib Warning: Citation `diamond1983' on page 16 undefined on input li
+ne 425.
+
+
+Package natbib Warning: Citation `schilling2024' on page 16 undefined on input 
+line 425.
+
+
+Package natbib Warning: Citation `bidder2024' on page 16 undefined on input lin
+e 425.
+
+[16 <./S10a_seuils_selon_kappa.png>]
+
+Package natbib Warning: Citation `adalid2022' on page 17 undefined on input lin
+e 427.
+
+
+Package natbib Warning: Citation `fritz2024' on page 17 undefined on input line
+ 427.
+
+
 Overfull \hbox (7.82983pt too wide) in paragraph at lines 432--433
  []\T1/lmr/bx/n/10.95 Implications de po-li-tique éco-no-mique.[] \T1/lmr/m/n/1
 0.95 Sous ces ré-serves, trois mes-sages res-sortent. D'abord,
  []
 
-[18]
-<S0_carte_reservoirs.png, id=490, 584.4234pt x 390.258pt>
+[17]
+<S0_carte_reservoirs.png, id=276, 584.4234pt x 390.258pt>
 File: S0_carte_reservoirs.png Graphic file (type png)
 <use S0_carte_reservoirs.png>
 Package pdftex.def Info: S0_carte_reservoirs.png  used on input line 522.
 (pdftex.def)             Requested size: 455.24411pt x 304.00102pt.
- [19]
+ [18]
 File: S2_courbes_contraction.png Graphic file (type png)
 <use S2_courbes_contraction.png>
 Package pdftex.def Info: S2_courbes_contraction.png  used on input line 528.
 (pdftex.def)             Requested size: 455.24411pt x 347.91087pt.
-<S2b_courbes_par_pays.png, id=502, 1076.823pt x 534.798pt>
+<S2b_courbes_par_pays.png, id=289, 1076.823pt x 534.798pt>
 File: S2b_courbes_par_pays.png Graphic file (type png)
 <use S2b_courbes_par_pays.png>
 Package pdftex.def Info: S2b_courbes_par_pays.png  used on input line 534.
 (pdftex.def)             Requested size: 455.24411pt x 226.09065pt.
-<S2c_reservoir_stricte_large.png, id=503, 715.473pt x 390.258pt>
+<S2c_reservoir_stricte_large.png, id=290, 715.473pt x 390.258pt>
 File: S2c_reservoir_stricte_large.png Graphic file (type png)
 <use S2c_reservoir_stricte_large.png>
 Package pdftex.def Info: S2c_reservoir_stricte_large.png  used on input line 54
 0.
 (pdftex.def)             Requested size: 455.24411pt x 248.31128pt.
-<S3_carte_sensibilite.png, id=504, 610.4406pt x 462.528pt>
+<S3_carte_sensibilite.png, id=291, 610.4406pt x 462.528pt>
 File: S3_carte_sensibilite.png Graphic file (type png)
 <use S3_carte_sensibilite.png>
 Package pdftex.def Info: S3_carte_sensibilite.png  used on input line 546.
 (pdftex.def)             Requested size: 455.24411pt x 344.93312pt.
-<S4_part_union_touchee.png, id=505, 643.203pt x 390.258pt>
+<S4_part_union_touchee.png, id=292, 643.203pt x 390.258pt>
 File: S4_part_union_touchee.png Graphic file (type png)
 <use S4_part_union_touchee.png>
 Package pdftex.def Info: S4_part_union_touchee.png  used on input line 552.
 (pdftex.def)             Requested size: 455.24411pt x 276.2157pt.
-<S4b_qui_porte_la_baisse.png, id=506, 1076.823pt x 357.9774pt>
+<S4b_qui_porte_la_baisse.png, id=293, 1076.823pt x 357.9774pt>
 File: S4b_qui_porte_la_baisse.png Graphic file (type png)
 <use S4b_qui_porte_la_baisse.png>
 Package pdftex.def Info: S4b_qui_porte_la_baisse.png  used on input line 558.
 (pdftex.def)             Requested size: 455.24411pt x 151.33815pt.
-<S5b_plafond_sur_courbe.png, id=507, 931.8012pt x 357.9774pt>
+<S5b_plafond_sur_courbe.png, id=294, 931.8012pt x 357.9774pt>
 File: S5b_plafond_sur_courbe.png Graphic file (type png)
 <use S5b_plafond_sur_courbe.png>
 Package pdftex.def Info: S5b_plafond_sur_courbe.png  used on input line 564.
 (pdftex.def)             Requested size: 455.24411pt x 174.897pt.
-<S6_robustesse_phi.png, id=508, 860.013pt x 343.5234pt>
+<S6_robustesse_phi.png, id=295, 860.013pt x 343.5234pt>
 File: S6_robustesse_phi.png Graphic file (type png)
 <use S6_robustesse_phi.png>
 Package pdftex.def Info: S6_robustesse_phi.png  used on input line 570.
 (pdftex.def)             Requested size: 409.71692pt x 163.65755pt.
-<S8_fourchette.png, id=509, 860.013pt x 343.5234pt>
+<S8_fourchette.png, id=296, 860.013pt x 343.5234pt>
 File: S8_fourchette.png Graphic file (type png)
 <use S8_fourchette.png>
 Package pdftex.def Info: S8_fourchette.png  used on input line 576.
 (pdftex.def)             Requested size: 409.71692pt x 163.65755pt.
-<S9_chiffres_cles.png, id=510, 715.473pt x 390.258pt>
+<S9_chiffres_cles.png, id=297, 715.473pt x 390.258pt>
 File: S9_chiffres_cles.png Graphic file (type png)
 <use S9_chiffres_cles.png>
 Package pdftex.def Info: S9_chiffres_cles.png  used on input line 582.
 (pdftex.def)             Requested size: 455.24411pt x 248.31128pt.
-<S10b_courbes_selon_kappa.png, id=511, 931.8012pt x 357.9774pt>
+<S10b_courbes_selon_kappa.png, id=298, 931.8012pt x 357.9774pt>
 File: S10b_courbes_selon_kappa.png Graphic file (type png)
 <use S10b_courbes_selon_kappa.png>
 Package pdftex.def Info: S10b_courbes_selon_kappa.png  used on input line 588.
 (pdftex.def)             Requested size: 455.24411pt x 174.897pt.
-<S10c_plafond_selon_kappa.png, id=512, 860.013pt x 300.6432pt>
+<S10c_plafond_selon_kappa.png, id=299, 860.013pt x 300.6432pt>
 File: S10c_plafond_selon_kappa.png Graphic file (type png)
 <use S10c_plafond_selon_kappa.png>
 Package pdftex.def Info: S10c_plafond_selon_kappa.png  used on input line 594.
@@ -787,12 +1079,20 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
 
 (C:\Program Files\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [20 <./S0_carte_reservoirs.png>] [21 <./S2b_courbes_par_pays.png>] [22 <./S2c
-_reservoir_stricte_large.png> <./S3_carte_sensibilite.png>] [23 <./S4_part_unio
+) [19 <./S0_carte_reservoirs.png>] [20 <./S2b_courbes_par_pays.png>] [21 <./S2c
+_reservoir_stricte_large.png> <./S3_carte_sensibilite.png>] [22 <./S4_part_unio
 n_touchee.png> <./S4b_qui_porte_la_baisse.png> <./S5b_plafond_sur_courbe.png>] 
-[24 <./S6_robustesse_phi.png> <./S8_fourchette.png> <./S9_chiffres_cles.png>] [
-25 <./S10b_courbes_selon_kappa.png> <./S10c_plafond_selon_kappa.png>] [26{C:/Pr
-ogram Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [27] (article_MNBC_UEMOA.aux
+[23 <./S6_robustesse_phi.png> <./S8_fourchette.png> <./S9_chiffres_cles.png>] [
+24 <./S10b_courbes_selon_kappa.png> <./S10c_plafond_selon_kappa.png>] [25{C:/Pr
+ogram Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+
+Package natbib Warning: There were undefined citations.
+
+[26] (article_MNBC_UEMOA.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
 )
  ***********
 LaTeX2e <2026-06-01>
@@ -802,17 +1102,29 @@ L3 programming layer <2026-08-10>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `article_MNBC_UEMOA.out' has not changed.
-(rerunfilecheck)             Checksum: 4F9A1270A905CC96F31C53D784707184;5753.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `article_MNBC_UEMOA.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `article_MNBC_UEMOA.out':
+(rerunfilecheck)             Before: E7F3A11467C78A9AFF9649E816E648A4;4096
+(rerunfilecheck)             After:  4F9A1270A905CC96F31C53D784707184;5753.
  ) 
 Here is how much of TeX's memory you used:
- 15571 strings out of 467440
- 256353 string characters out of 5416813
- 691272 words of memory out of 5000000
- 44474 multiletter control sequences out of 15000+600000
+ 15559 strings out of 467440
+ 256196 string characters out of 5416813
+ 689154 words of memory out of 5000000
+ 44463 multiletter control sequences out of 15000+600000
  718687 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,10n,79p,1786b,701s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,10n,79p,1786b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/M
 iKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:
@@ -826,9 +1138,9 @@ C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX
 m/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX/fonts/
 type1/public/lm/lmtt10.pfb>
-Output written on article_MNBC_UEMOA.pdf (27 pages, 2305545 bytes).
+Output written on article_MNBC_UEMOA.pdf (26 pages, 2270660 bytes).
 PDF statistics:
- 705 PDF objects out of 1000 (max. 8388607)
- 168 named destinations out of 1000 (max. 500000)
- 360 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 517 PDF objects out of 1000 (max. 8388607)
+ 167 named destinations out of 1000 (max. 500000)
+ 272 words of extra memory for PDF output out of 10000 (max. 10000000)
 
